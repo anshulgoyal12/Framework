@@ -1,0 +1,37 @@
+# Created on 2017-11-10T18:38:28.163
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created on 2017-11-10T18:38:41.676
+Unexpected IOException: 8,1,Selenium.HomePage,loginPage(Selenium.HomePage),null,Unable to locate element: {"method":"id"\002C"selector":"password"}\000ACommand duration or timeout: 30.04 seconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '2.53.0'\002C revision: '35ae25b1534ae328c771e0856c93e187490ca824'\002C time: '2016-03-15 10:43:46'\000ASystem info: host: 'ind496'\002C ip: '192.168.56.1'\002C os.name: 'Windows Vista'\002C os.arch: 'x86'\002C os.version: '6.0'\002C java.version: '1.8.0_102'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities [{applicationCacheEnabled=true\002C rotatable=false\002C handlesAlerts=true\002C databaseEnabled=true\002C version=43.0.1\002C platform=WINDOWS\002C nativeEvents=false\002C acceptSslCerts=true\002C webStorageEnabled=true\002C locationContextEnabled=true\002C browserName=firefox\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true}]\000ASession ID: 471f8b58-cb6f-40cc-8773-039554337cf7\000A*** Element info: {Using=id\002C value=password},null,Unable to locate element: {"method":"id"\002C"selector":"password"}\000ACommand duration or timeout: 30.04 seconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '2.53.0'\002C revision: '35ae25b1534ae328c771e0856c93e187490ca824'\002C time: '2016-03-15 10:43:46'\000ASystem info: host: 'ind496'\002C ip: '192.168.56.1'\002C os.name: 'Windows Vista'\002C os.arch: 'x86'\002C os.version: '6.0'\002C java.version: '1.8.0_102'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities [{applicationCacheEnabled=true\002C rotatable=false\002C handlesAlerts=true\002C databaseEnabled=true\002C version=43.0.1\002C platform=WINDOWS\002C nativeEvents=false\002C acceptSslCerts=true\002C webStorageEnabled=true\002C locationContextEnabled=true\002C browserName=firefox\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true}]\000ASession ID: 471f8b58-cb6f-40cc-8773-039554337cf7\000A*** Element info: {Using=id\002C value=password},HomePage.loginPage:42 \00BB NoSuchElement Unable to locate element: {"method":"id"...,org.openqa.selenium.NoSuchElementException: \000AUnable to locate element: {"method":"id"\002C"selector":"password"}\000ACommand duration or timeout: 30.04 seconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '2.53.0'\002C revision: '35ae25b1534ae328c771e0856c93e187490ca824'\002C time: '2016-03-15 10:43:46'\000ASystem info: host: 'ind496'\002C ip: '192.168.56.1'\002C os.name: 'Windows Vista'\002C os.arch: 'x86'\002C os.version: '6.0'\002C java.version: '1.8.0_102'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities [{applicationCacheEnabled=true\002C rotatable=false\002C handlesAlerts=true\002C databaseEnabled=true\002C version=43.0.1\002C platform=WINDOWS\002C nativeEvents=false\002C acceptSslCerts=true\002C webStorageEnabled=true\002C locationContextEnabled=true\002C browserName=firefox\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true}]\000ASession ID: 471f8b58-cb6f-40cc-8773-039554337cf7\000A*** Element info: {Using=id\002C value=password}\000A\0009at Selenium.HomePage.loginPage(HomePage.java:42)\000ACaused by: org.openqa.selenium.NoSuchElementException: \000AUnable to locate element: {"method":"id"\002C"selector":"password"}\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '2.53.0'\002C revision: '35ae25b1534ae328c771e0856c93e187490ca824'\002C time: '2016-03-15 10:43:46'\000ASystem info: host: 'ind496'\002C ip: '192.168.56.1'\002C os.name: 'Windows Vista'\002C os.arch: 'x86'\002C os.version: '6.0'\002C java.version: '1.8.0_102'\000ADriver info: driver.version: unknown\000A
+
+
+# Created on 2017-11-10T18:38:45.896
+Unexpected IOException: 5,1,Selenium.ValidateTest,validateElementTest(Selenium.ValidateTest),Selenium.ValidateTest,null,null
+
+
+# Created on 2017-11-10T18:38:46.060
+Unexpected IOException with stream: CUSTOMER SERVICE
+FAQ
+Shipping
+Cancellation
+Returns
+Bulk Orders
+Customer Stories
+Buying Guides
+Track Order
+
+
+# Created on 2017-11-10T18:38:46.069
+Unexpected IOException: 6,1,Selenium.ValidateTest,validateElementTest(Selenium.ValidateTest),null,null,null
+
+
+# Created on 2017-11-10T18:38:47.476
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

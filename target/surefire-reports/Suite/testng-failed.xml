@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Selenium.Listeners"/>
+    <listener class-name="Resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Home Page(failed)">
+    <classes>
+      <class name="Selenium.HomePage">
+        <methods>
+          <include name="basePageNavigation"/>
+          <include name="loginPage" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- Selenium.HomePage -->
+      <class name="Selenium.ValidateTest">
+        <methods>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Selenium.ValidateTest -->
+    </classes>
+  </test> <!-- Home Page(failed) -->
+  <test name="Validate Test Page(failed)">
+    <classes>
+      <class name="Selenium.ValidateTest">
+        <methods>
+          <include name="validateElementTest"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Selenium.ValidateTest -->
+    </classes>
+  </test> <!-- Validate Test Page(failed) -->
+</suite> <!-- Failed suite [Suite] -->

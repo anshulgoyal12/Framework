@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Validate Test Page(failed)">
+    <classes>
+      <class name="Selenium.HomePage">
+        <methods>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Selenium.HomePage -->
+      <class name="Selenium.ValidateTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="validateElementTest"/>
+        </methods>
+      </class> <!-- Selenium.ValidateTest -->
+    </classes>
+  </test> <!-- Validate Test Page(failed) -->
+</suite> <!-- Failed suite [Suite] -->

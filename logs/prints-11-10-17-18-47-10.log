@@ -1,0 +1,7 @@
+18:47:01.134 [main] DEBUG Resources.Base - Clicking on Sign in as Buyer link 
+18:47:01.308 [main] INFO  Resources.Base - Open the Login Page Successfully
+18:47:01.315 [main] DEBUG Resources.Base - Enter Username and Password
+18:47:04.029 [main] INFO  Resources.Base - User is successfully login into the Application
+18:47:06.029 [main] DEBUG Resources.Base - Enter Username and Password
+18:47:07.340 [main] INFO  Resources.Base - User is successfully login into the Application
+18:47:09.369 [main] DEBUG Resources.Base - Navigating the URL

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10748" started-at="2017-11-10T13:19:43Z" finished-at="2017-11-10T13:19:53Z">
+    <groups>
+    </groups>
+    <test name="Home Page" duration-ms="8654" started-at="2017-11-10T13:19:43Z" finished-at="2017-11-10T13:19:51Z">
+      <class name="Selenium.HomePage">
+        <test-method status="PASS" signature="basePageNavigation()[pri:1, instance:Selenium.HomePage@e6fdee]" name="basePageNavigation" duration-ms="563" started-at="2017-11-10T18:49:43Z" finished-at="2017-11-10T18:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:2, instance:Selenium.HomePage@e6fdee]" name="loginPage" duration-ms="4377" started-at="2017-11-10T18:49:43Z" data-provider="getData" finished-at="2017-11-10T18:49:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JonMark]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[indianic]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:2, instance:Selenium.HomePage@e6fdee]" name="loginPage" duration-ms="3678" started-at="2017-11-10T18:49:48Z" data-provider="getData" finished-at="2017-11-10T18:49:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KenWilliamson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[indianic]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+      </class> <!-- Selenium.HomePage -->
+    </test> <!-- Home Page -->
+    <test name="Validate Test Page" duration-ms="2057" started-at="2017-11-10T13:19:51Z" finished-at="2017-11-10T13:19:53Z">
+      <class name="Selenium.ValidateTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Selenium.ValidateTest@16ee6e4]" name="initialize" is-config="true" duration-ms="11480" started-at="2017-11-10T18:49:31Z" finished-at="2017-11-10T18:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="navigateURL()[pri:0, instance:Selenium.ValidateTest@16ee6e4]" name="navigateURL" is-config="true" duration-ms="339" started-at="2017-11-10T18:49:51Z" finished-at="2017-11-10T18:49:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateURL -->
+        <test-method status="PASS" signature="validateElementTest()[pri:3, instance:Selenium.ValidateTest@16ee6e4]" name="validateElementTest" duration-ms="1716" started-at="2017-11-10T18:49:52Z" finished-at="2017-11-10T18:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateElementTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Selenium.ValidateTest@16ee6e4]" name="tearDown" is-config="true" duration-ms="414" started-at="2017-11-10T18:49:53Z" finished-at="2017-11-10T18:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Selenium.ValidateTest -->
+    </test> <!-- Validate Test Page -->
+  </suite> <!-- Suite -->
+</testng-results>

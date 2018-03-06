@@ -1,0 +1,42 @@
+18:47:10.349 [main] INFO  Resources.Base - URL is successfully displayed
+18:47:12.028 [main] INFO  Resources.Base - Validate the test
+18:48:49.457 [main] DEBUG Resources.Base - Clicking on Sign in link
+18:48:49.631 [main] DEBUG Resources.Base - Clicking on Sign in as Buyer link 
+18:48:49.859 [main] INFO  Resources.Base - Open the Login Page Successfully
+18:48:49.870 [main] DEBUG Resources.Base - Enter Username and Password
+18:48:52.248 [main] INFO  Resources.Base - User is successfully login into the Application
+18:48:54.257 [main] DEBUG Resources.Base - Enter Username and Password
+18:48:55.798 [main] INFO  Resources.Base - User is successfully login into the Application
+18:48:57.832 [main] DEBUG Resources.Base - Navigating the URL
+18:48:58.136 [main] INFO  Resources.Base - URL is successfully displayed
+18:49:00.008 [main] INFO  Resources.Base - Validate the test
+18:49:43.206 [main] DEBUG Resources.Base - Clicking on Sign in link
+18:49:43.368 [main] DEBUG Resources.Base - Clicking on Sign in as Buyer link 
+18:49:43.634 [main] INFO  Resources.Base - Open the Login Page Successfully
+18:49:43.646 [main] DEBUG Resources.Base - Enter Username and Password
+18:49:46.018 [main] INFO  Resources.Base - User is successfully login into the Application
+18:49:48.030 [main] DEBUG Resources.Base - Enter Username and Password
+18:49:49.693 [main] INFO  Resources.Base - User is successfully login into the Application
+18:49:51.741 [main] DEBUG Resources.Base - Navigating the URL
+18:49:52.080 [main] INFO  Resources.Base - URL is successfully displayed
+18:49:53.796 [main] INFO  Resources.Base - Validate the test
+11:33:06.888 [main] DEBUG Resources.Base - Clicking on Sign in link
+11:33:07.057 [main] DEBUG Resources.Base - Clicking on Sign in as Buyer link 
+11:33:07.213 [main] INFO  Resources.Base - Open the Login Page Successfully
+11:33:07.221 [main] DEBUG Resources.Base - Enter Username and Password
+11:33:10.071 [main] INFO  Resources.Base - User is successfully login into the Application
+11:33:12.093 [main] DEBUG Resources.Base - Enter Username and Password
+11:33:14.135 [main] INFO  Resources.Base - User is successfully login into the Application
+11:33:16.190 [main] DEBUG Resources.Base - Navigating the URL
+11:33:16.645 [main] INFO  Resources.Base - URL is successfully displayed
+11:33:18.548 [main] INFO  Resources.Base - Validate the test
+11:38:19.767 [main] DEBUG Resources.Base - Clicking on Sign in link
+11:38:19.937 [main] DEBUG Resources.Base - Clicking on Sign in as Buyer link 
+11:38:20.109 [main] INFO  Resources.Base - Open the Login Page Successfully
+11:38:20.117 [main] DEBUG Resources.Base - Enter Username and Password
+11:38:23.576 [main] INFO  Resources.Base - User is successfully login into the Application
+11:38:25.579 [main] DEBUG Resources.Base - Enter Username and Password
+11:38:27.247 [main] INFO  Resources.Base - User is successfully login into the Application
+11:38:29.268 [main] DEBUG Resources.Base - Navigating the URL
+11:38:30.334 [main] INFO  Resources.Base - URL is successfully displayed
+11:38:32.216 [main] INFO  Resources.Base - Validate the test

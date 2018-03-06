@@ -1,0 +1,7 @@
+18:38:46.066 [main] INFO  Resources.Base - Login
+18:39:03.262 [main] DEBUG Resources.Base - Clicking on Sign in link
+18:39:03.502 [main] DEBUG Resources.Base - Clicking on Sign in as Buyer link 
+18:39:03.729 [main] INFO  Resources.Base - Open the Login Page Successfully
+18:39:06.127 [main] INFO  Resources.Base - User is successfully login into the Application
+18:39:09.818 [main] INFO  Resources.Base - User is successfully login into the Application
+18:39:14.163 [main] INFO  Resources.Base - Login
